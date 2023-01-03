@@ -14,3 +14,4 @@ Link to the paper : https://www.cs.princeton.edu/courses/archive/fall06/cos402/p
 * After creating the corner databases upto depth-8, on its use,we'll observe drastic optimization, implemented as the IDA Star algorithm.
 
 ### Would you like to race againt it ?!
+![](rubiks-cube.gif)
