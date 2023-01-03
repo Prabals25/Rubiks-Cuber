@@ -1,5 +1,5 @@
 # Rubiks-Cuber
-Created a Rubiks Cube Solver simply using Graph algorithms such as :
+Created a Rubiks Cube Solver using Graph algorithms such as :
 * DFS (Depth First Search)
 * BFS (Breadth First Search) 
 * IDDFS (Iterative Deepening Depth First Search).
